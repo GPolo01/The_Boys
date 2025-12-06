@@ -16,6 +16,7 @@ Este projeto consiste em simular a dinâmica desse mundo durante um ano (525.600
 # Composição
 
 Para o desenvolvimento da simulação foram usados 8 arquivos (junto do Makefile):
+  
   Desenvolvidos:
     Fila de prioridades - fprio.c;
     Lista encadeada - lista.c;
