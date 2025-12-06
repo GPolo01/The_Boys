@@ -25,11 +25,12 @@ Para o desenvolvimento da simulação foram usados 8 arquivos (junto do Makefile
     
     A simulação do mundo - theboys.c;
     
-    Makefile;
 
   Disponibilizados sem possibilidade de alteração:
-    
+
     Conjuntos - conjunto.h e .o;
+
+    Makefile;
 
   Bibliotecas:
     
