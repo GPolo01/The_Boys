@@ -18,15 +18,23 @@ Este projeto consiste em simular a dinâmica desse mundo durante um ano (525.600
 Para o desenvolvimento da simulação foram usados 8 arquivos (junto do Makefile):
   
   Desenvolvidos:
+    
     Fila de prioridades - fprio.c;
+    
     Lista encadeada - lista.c;
+    
     A simulação do mundo - theboys.c;
+    
     Makefile;
 
   Disponibilizados sem possibilidade de alteração:
+    
     Conjuntos - conjunto.h e .o;
 
   Bibliotecas:
+    
     fprio.h;
+    
     lista.h;
+    
     conjunto.h;
